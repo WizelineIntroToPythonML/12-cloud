@@ -1,0 +1,13 @@
+# Jupyter and Pandas Libraries
+jupyter
+numpy
+pandas
+matplotlib
+pillow
+boto3
+requests
+
+# Development tools
+black
+pylint
+mypy
